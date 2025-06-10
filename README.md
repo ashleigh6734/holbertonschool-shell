@@ -1,2 +1,4 @@
+#!/bin/bash
 # holbertonschool-shell
-Week 2
+Week 	2
+pwd
